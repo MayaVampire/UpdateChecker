@@ -1,9 +1,9 @@
 {
-  "homepage": "<homepage/download page for your mod>",
+  "homepage": "https://modrinth.com/mod/ore-genesis",
   "1.21.4": {
     "1.0.0": "Made it really fast so no idea if it works!",
   },
   "promos": {
     "<1.21.5>-latest": "1.0.0",
-    "<1.21.5>-recommended": "1.0.0",
+    "<1.21.4>-recommended": "1.0.0",
 }
